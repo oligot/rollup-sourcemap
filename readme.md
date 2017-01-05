@@ -12,7 +12,7 @@ npm install
 Start a HTTP server with
 
 ```shell
-python -m SimpleHTTPServer
+python -m SimpleHTTPServer 2000
 ```
 
 Steps to reproduce the bug
