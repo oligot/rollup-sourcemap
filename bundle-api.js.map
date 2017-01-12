@@ -1,0 +1,1 @@
+{"version":3,"file":null,"sources":["/home/oli/src/rollup-sourcemap/app.js"],"sourcesContent":["function log() {\n\tconst msg = 'Hello';\n\tconsole.log(msg);\n}\n\nlog();\n"],"names":[],"mappings":";;;;;AAAA,UAAS,AAAG,MAAG;AACd,MAAM,AAAG,MAAG,AAAO,AAAC;AACpB,AAAO,UAAC,AAAG,IAAC,AAAG,AAAC,AAAC;AACjB;;AAED,AAAG,AAAE,AAAC"}

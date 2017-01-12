@@ -1,0 +1,1 @@
+{"version":3,"file":null,"sources":["app.js"],"sourcesContent":["function log() {\n\tconst msg = 'Hello';\n\tconsole.log(msg);\n}\n\nlog();\n"],"names":["log","msg"],"mappings":";;;AAAA,SAASA,GAAT,GAAe;KACRC,MAAM,OAAZ;SACQD,GAAR,CAAYC,GAAZ;;;AAGDD;;"}

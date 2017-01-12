@@ -1,5 +1,5 @@
 function log() {
-	var msg = 'Hello';
+	const msg = 'Hello';
 	console.log(msg);
 }
 
